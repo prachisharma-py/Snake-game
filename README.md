@@ -4,6 +4,12 @@ A classic Snake Game built using Python's `turtle` graphics module. Eat the food
 
 ---
 
+## 🎮 Demo
+
+![Snake Game Demo](assets/snake_demo.gif)
+
+---
+
 ## 🚀 Features
 
 - Classic snake movement using arrow keys
